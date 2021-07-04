@@ -1,0 +1,21 @@
+   body {
+     background-color: #EAF6F6;
+     background-image: url("628209.jpg");
+     background-repeat: repeat;
+   }
+
+   hr{
+     border-style: dotted none none;
+     border-width: 5px;
+     border-spacing: 2px;
+     border-color: #6E7C7C;
+     width: 5%;
+   }
+   h3{
+     color: #66BFBF;
+     font-family: Lucida Handwriting;
+   }
+   h1{
+      font-family: Brush Script MT;
+     color: #66BFBF;
+   }
